@@ -3,7 +3,7 @@
 * email: _alu0101404141@ull.edu.es_
 
 ## Resumen
-En este repositorio se implementa un script, escrito sn C#, que muestra un mensaje por la consola del debug.
+En este repositorio se implementa un script, escrito en C#, que muestra un mensaje por la consola del debug.
 Además, se incluye un gif que muestra la ejecución del entorno en unity.
 
 ## Tareas
