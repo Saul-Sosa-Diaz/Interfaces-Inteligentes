@@ -11,7 +11,7 @@ Ahora captaremos el audio por el micrófono y luego lo reproduciremos en unity, 
 Se puede parar también la captación del mocrófono.
 El script correspondiente a este ejerciocio es Recorder.cs
 Adjunto también el enlace al video del ejercicio 2. 
-[Enlace al video](https://youtu.be/EVSZXgZHLd4)
+[Enlace al video](https://youtu.be/0hALI0t-K1c)
 
 # Ejercicio Cámaras
 Ahora captaremos la cámara y luego la mostraremos en unity cuando se pulse la tecla _s_. Además se muestra en la consola todos los dispositivos disponibles.
